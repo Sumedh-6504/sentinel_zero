@@ -45,14 +45,9 @@ https://app.eraser.io/workspace/kSVn0IOp5bZgDmAFQBwl?elements=cGuhCbKPTHcU-F6cSI
 
 ---
 
-## 📸 Project Showcase
+### 1. LangSmith Trace (Agentic Reasoning)
+<img width="1918" height="945" alt="image" src="https://github.com/user-attachments/assets/f973a520-5c9d-4811-9d17-df65303afc56" />
 
-### 1. The Dashboard (WIP)
-![Dashboard UI Placeholder](https://via.placeholder.com/800x400?text=Insert+Screenshot+of+Frontend+Dashboard)
-> *The central hub where engineers can view scanned vulnerabilities and provide HITL feedback.*
-
-### 2. LangSmith Trace (Agentic Reasoning)
-https://smith.langchain.com/public/2e86e1af-d88e-4a7b-a18a-f17be7d24fcc/r
 > *Deep observability showing the LangGraph state machine tracking agent execution steps.*
 
 ---
