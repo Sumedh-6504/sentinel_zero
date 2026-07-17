@@ -30,6 +30,9 @@ Sentinel-Zero is a **fully autonomous, agentic AI security pipeline** (Backend M
 ## 🏗️ System Architecture
 
 https://app.eraser.io/workspace/kSVn0IOp5bZgDmAFQBwl?elements=cGuhCbKPTHcU-F6cSIbJGw
+
+<img width="1651" height="708" alt="image" src="https://github.com/user-attachments/assets/5ea67d2f-9a62-4da8-8e1b-81895d60c98c" />
+
 > *A flow diagram showing the Express Backend communicating with Supabase, dispatching serverless triggers to Modal, and the LangGraph agents reading physical code to update the database.*
 
 ### Tech Stack
